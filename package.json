@@ -1,0 +1,20 @@
+{
+  "name": "dxwd-word-counterd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "wordc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "init": "^0.1.2",
+    "inquirer": "^9.3.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
